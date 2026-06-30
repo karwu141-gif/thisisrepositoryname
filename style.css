@@ -1,26 +1,22 @@
-h1 {color: blue}
-.titleClass {font-size: 500%}
-.titleClass{border-radius: 15px;}
-h1:hover{
-  color:red;
+h1 {color: white;
+  text-align: center;
+  background-color: #8B0000;}
+.titleClass {font-size: 500%; border-radius: 15%;}
+#titleID {border: black solid 1px;}
+h2 {color: white;
+  text-align: center;
+  background-color: #d40000;}
+.titleClass {font-size: 500%; border-radius: 15%;}
+#titleID {border: black solid 1px;}
+h3 {color: white;
+  text-align: center;
+  background-color: #FF0000;}
+.titleClass {font-size: 500%; border-radius: 15%;}
+#titleID {border: black solid 1px;}
+img {
+  position: static;
+  bottom: 10px;
+  right: 217px;
 }
-h1{
-  transition: property duration timing-function delay;}
-h2{
-  animation-iteration-count:2;
-}
-h2{
-  @keyframes translate{
-  from {property: value;}
-  to {property: value;}
-    button: active {
-      background-color: blue;
-    }
-    
-    h1: hover {
-      font-size: 100px;
-    }
-   
-    h1: visited {
-      color: green;
-    }
+img= "strawberry" {
+  position: center;
